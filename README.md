@@ -12,9 +12,9 @@
 - 🏢 I'm a front end developer
 - 👨‍💻 As a MD student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript and ReactJS or anything related to web development.
-- 👨‍💻 Check out my portfolio at https://www.linkedin.com/in/omar-benkhattab-679b361a2/ to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at https://www.linkedin.com/in/omar-karany-7678782a2/ to see some of the projects I've worked on.
 
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/omar-benkhattab-679b361a2/" target="_blank"><img src="https://img.shields.io/badge/-omar%20benkhattab-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/omar-karany-7678782a2/" target="_blank"><img src="https://img.shields.io/badge/-omar%20benkhattab-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
